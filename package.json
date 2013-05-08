@@ -1,0 +1,8 @@
+{
+	"name":"mokky",
+	"description":"application to test REST services",
+	"version":"0.0.1",
+	"dependencies":{
+		"express":"*"
+	}
+}
