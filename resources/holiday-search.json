@@ -1,0 +1,50 @@
+[
+	{
+		"id":"111111111111",
+		"title":"Paradise Island Resort and Spa, Maldives",
+		"description": "An archipelago of 1200 islands, the Republic of Maldives has unlimited opportunities for the nature lover. Watch its coral reefs, lagoons and gleaming beaches redefining beauty and bliss for you. This 3 night - 4 day holiday will get more enjoyable and indulging as you stay in the Paradise Island Resort & Spa. Its private terrace with ocean views, its outdoor pool, spa and various restaurants have everything you may seek or fancy while in Maldives. Get this quick and refreshing holiday to spend those long awaited special moments with your beloved or family.",
+		"nights":"3",
+		"days":"4",
+		"url":"http://images5.makemytrip.com/hp-images/packages/8282/mainImage/Paradise-Island-Resort-and-Spa-Maldives.jpg"
+	},
+	{
+		"id":"222222222222",
+		"title":"Fun Island Resort, Maldives",
+		"description": "Think Maldives, think crystal azure beaches, undulating pines, an agrarian laidback lifestyle, beach parties and a nightlife scene that will make you wish the sun never comes up. And when you have your vacations booked at the Fun Island Resort, things can only get better. A smart choice, the Fun Island Resort is a place you just can't get enough of. With close proximity to white sandy beaches, superb beachside arrangements for both fun and relaxation, food that's finger-licking tasty and services & facilities to keep you rolling with joy, the Fun Island Resort promises and unforgettable Maldivian getaway!",
+		"nights":"3",
+		"days":"4",
+		"url":"http://images5.makemytrip.com/hp-images/packages/4272/mainImage/Fun-Island-Resort-Maldivesss.jpg"
+	},
+	{
+		"id":"333333333333",
+		"title":"Kurumba Resort, Maldives",
+		"description": "If one had to paint a picture of Maldives, well one would have to be there to see and feel the beauty and tranquility of such a wonderful place. This conglomerate of 1190 beautiful coral islands is nothing short of a sliver of paradise that found its way on earth. This package takes you to one of the most exotic places on earth where you can explore the colorful reefs and abundant sea life, get tanned on the white sands of the beaches, and rejuvenate your body at the invigorating spas. This holiday season, Maldives might just be the place you want to be in.",
+		"nights":"3",
+		"days":"4",
+		"url":"http://images5.makemytrip.com/hp-images/packages/8284/mainImage/Kurumba-Resort-Maldives60.jpg"
+	},
+	{
+		"id":"444444444444",
+		"title":"Chaaya Island Dhonveli Resort, Maldives",
+		"description": "Arrive at the Chaaya Island Dhonaveli Resort on a traditional 'Dhoni'(motorised sea vessel) or the seaplane, for some spectacular aerial views! The Chaaya Island Dhonveli Resort in Kaafu Atoll will leave you mesmerised. Endless sun, sea, sand and surf, interspersed with fascinating reef formations, coral gardens and wrecks discovered during deep sea diving, every moment at this resort makes for a pleasurable experience.",
+		"nights":"3",
+		"days":"4",
+		"url":"http://images5.makemytrip.com/hp-images/packages/30/mainImage/Chaaya-Island-Dhonveli-Resort-Maldives.jpg"
+	},
+	{
+		"id":"555555555555",
+		"title":"Herathera Island Resort",
+		"description": "Think of Maldives and your mind will be filled with images of deep blue and turquoise waters, lashed by pristine white sand beaches, adorned by rich green palm trees, and illuminated by all-year sunshine - this is sunny side of life! Maldives is a spectacular conglomeration of 1190 coral islands, perfectly dotted on the vast expanse of the grand Indian Ocean. The 26 natural atolls made of coral structures and massive lagoons create paradise-like natural beauty - romantic and mesmerising. It is also a haven for all you watersports' lovers, who want to surf, snorkel and scuba-dive into the Indian Ocean. So what are you waiting for? Go explore the hues of blue in Maldives!",
+		"nights":"3",
+		"days":"4",
+		"url":"http://images5.makemytrip.com/hp-images/packages/9850/mainImage/My-Maldives-Herathera-Island-Resort-GAN-4-day122.jpg"
+	},
+	{
+		"id":"555555555555",
+		"title":"Chaaya Reef Ellaidhoo",
+		"description": "Enjoy a rejuvenating holiday in Maldives at Chaaya Reef Ellaidhoo, a beautiful 4-star property on the island. Choose to relax and soak in the beauty of one of the most beautiful beach destination in the world or try adventure sports from a wide range of optional tours and return to the comforts of your room. With excellent hotel services at your disposal throughout the trip, make the most of this relaxing holiday with your beloved in Maldives. ",
+		"nights":"3",
+		"days":"4",
+		"url":"http://images5.makemytrip.com/hp-images/packages/9888/mainImage/Chaaya-Reef-Ellaidhoo111.jpg"
+	}
+]

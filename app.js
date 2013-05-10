@@ -2,13 +2,9 @@ var express = require("express");
 var fs = require("fs");
 
 var server = express();
-//server.enable("jsonp callback");
 server.set("jsonp callback", true);
-server.get("/", function(req, res){
-	res.sendfile(__dirname+'/index.html');
-});
-server.get("/jsonp", function(req, res) {
-	fs.readFile( __dirname + '/test.json', function (err, data) {
+server.get("/:phone", function(req, res) {
+	fs.readFile( __dirname + '/resources/'+req.params.phone, function (err, data) {
 		if (err) {
 			throw err; 
 		}
